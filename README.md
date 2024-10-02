@@ -1,0 +1,1 @@
+# plugins-farsi-font-for-elementor
