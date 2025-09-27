@@ -1,18 +1,20 @@
 <?php
 /**
- * Plugin Name: 			Farsi Font for Elementor
- * Description: 			Adds Vazirmatn font to be used in Elementor Page Builder.
- * Plugin URI: 				https://wordpress.org/plugins/farsi-font-for-elementor/
- * Version: 				2.9.0
- * Author: 					babakfp
- * Author URI: 				https://babakfp.ir
- * Text Domain: 			farsi-font-for-elementor
- * Tested up to: 			6.0
- * Elementor tested up to: 	3.6
- * License: 				GPLv2 or later
- * License URI: 			https://www.gnu.org/licenses/gpl-2.0.html
- * Tags: 					farsi, farsi font, farsi font elementor, فونت فارسی, فونت فارسی المنتور, فونت فارسی برای المنتور
- * Domain Path: 			/languages
+ * Plugin Name:                     Farsi Font for Elementor
+ * Description:                     Adds Vazirmatn font to be used in Elementor Page Builder.
+ * Plugin URI:                      https://wordpress.org/plugins/farsi-font-for-elementor/
+ * Version:                         2.9.5
+ * Tested up to:                    6.8
+ * Requires at least:               5.0
+ * Requires PHP:                    7.4
+ * Elementor tested up to:          3.32
+ * Author:                          بابک فرخوپاک
+ * Author URI:                      https://babakfp.ir
+ * Text Domain:                     farsi-font-for-elementor
+ * License:                         GPLv2 or later
+ * License URI:                     https://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:                            farsi, farsi font, farsi font elementor, فونت فارسی, فونت فارسی المنتور
+ * Domain Path:                     /languages
 */
 
 defined( 'ABSPATH' ) || die;
@@ -21,9 +23,9 @@ use Farsi_Font_For_Elementor\Compatibility_Checks;
 
 define( 'FARSI_FONT_FOR_ELEMENTOR', [
 	'NAME' => 'Farsi Font for Elementor',
-	'V' => '2.9.0',
-	'PHP_MIN_V' => '7.4.0',
-	'ELE_MIN_V' => '3.5.0',
+	'V' => '2.9.5',
+	'PHP_MIN_V' => '7.4',
+	'ELE_MIN_V' => '3.5',
 	'INCLUDES' => plugin_dir_path( __FILE__ ) . 'includes/',
 	'CSS' => plugin_dir_url( __FILE__ ) . 'assets/css/',
 ] );

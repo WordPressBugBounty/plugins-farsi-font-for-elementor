@@ -1,31 +1,32 @@
 === Farsi Font for Elementor ===
 
-Contributors: 			Pixer
-Donate link: 				https://idpay.ir/babakfp
-Tags: 							farsi, farsi font, farsi font elementor, فونت فارسی, فونت فارسی المنتور, فونت فارسی برای المنتور
-Requires at least: 	5.0
-Tested up to: 			6.0
-Stable tag: 				2.9.0
-Requires PHP: 			7.4
-License: 						GPLv2 or later
-License URI: 				https://www.gnu.org/licenses/gpl-2.0.html
+Version:                    2.9.5
+Stable tag:                 2.9.5
+Tested up to:               6.8
+Requires at least:          5.0
+Requires PHP:               7.4
+Contributors:               pixer
+Donate link:                https://idpay.ir/babakfp
+Tags:                       farsi, farsi font, farsi font elementor, فونت فارسی, فونت فارسی المنتور
+License:                    GPLv2 or later
+License URI:                https://www.gnu.org/licenses/gpl-2.0.html
 
+فونت فارسی وزیرمتن (نسخه جدید وزیر) را به صفحه‌ساز المنتور اضافه میکند.
 
 == Description ==
 
 فونت فارسی وزیرمتن (همان نسخه جدید فونت وزیر) را به صفحه‌ساز المنتور شما اضافه میکند. اگر قالب‌ای که استفاده میکنید استاندارد باشد, از تنظیمات خود المنتور میتوانید فونت تمام سایت را با یک کلیک تغییر دهید.
 
 راهنمای فونت‌ها:
-- FD: فونتی که همه اعداد در سایت شما را به صورت فارسی نمایش میدهد.
-- NL: فونتی که از الفبای انگلیسی پشتیبانی نمیکند.
-- NL: فونتی که دارای نقطه‌های گرد میباشد.
 
+- `FD`: فونتی که همه اعداد در سایت شما را به صورت فارسی نمایش میدهد.
+- `NL`: فونتی که از الفبای انگلیسی پشتیبانی نمیکند.
+- `NL`: فونتی که دارای نقطه‌های گرد میباشد.
 
 == Screenshots ==
 
 1. امکان تغییر فونت یک متن با استفاده از تنظیمات خود المنتور.
 2. امکان تغییر فونت سایت به صورت سراسری جهت اعمال در کل سایت.
-
 
 == Frequently Asked Questions ==
 
@@ -35,8 +36,10 @@ License URI: 				https://www.gnu.org/licenses/gpl-2.0.html
 = آیا در بروزرسانی‌های جدید, فونت پولی اضافه خواهد شد؟ =
 خیر
 
-
 == Changelog ==
+
+= 2.9.5 =
+* بررسی هماهنگی با جدیدترین نسخه وردپرس و المنتور انجام شد.
 
 = 2.9.0 =
 * حل مشکل کار نکردن فونت با نقطه‌های گرد.
