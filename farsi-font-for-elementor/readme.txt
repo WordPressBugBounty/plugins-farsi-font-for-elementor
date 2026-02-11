@@ -6,7 +6,7 @@ Tested up to:               6.8
 Requires at least:          5.0
 Requires PHP:               7.4
 Contributors:               pixer
-Donate link:                https://idpay.ir/babakfp
+Donate link:                https://babakfp.ir/donate
 Tags:                       farsi, farsi font, farsi font elementor, فونت فارسی, فونت فارسی المنتور
 License:                    GPLv2 or later
 License URI:                https://www.gnu.org/licenses/gpl-2.0.html
@@ -19,9 +19,9 @@ License URI:                https://www.gnu.org/licenses/gpl-2.0.html
 
 راهنمای فونت‌ها:
 
-- `FD`: فونتی که همه اعداد در سایت شما را به صورت فارسی نمایش میدهد.
-- `NL`: فونتی که از الفبای انگلیسی پشتیبانی نمیکند.
-- `NL`: فونتی که دارای نقطه‌های گرد میباشد.
+* `FD`: فونتی که همه اعداد در سایت شما را به صورت فارسی نمایش میدهد.
+* `NL`: فونتی که از الفبای انگلیسی پشتیبانی نمیکند.
+* `NL`: فونتی که دارای نقطه‌های گرد میباشد.
 
 == Screenshots ==
 
